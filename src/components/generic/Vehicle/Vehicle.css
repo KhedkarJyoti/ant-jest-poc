@@ -1,0 +1,24 @@
+.vehicle-form {
+    /* width: 300px; */
+    border: 1px solid #abd5fa;
+    border-radius: 10px;
+    padding: 15px 15px 30px 15px;
+    background: #fff;
+}
+.vehicle-form-row{
+    width: 100%;
+}
+.vehicle-form-submit-row{
+    text-align-last: end;
+}
+.vehicle-form-row .ant-col{
+    margin-bottom: 15px;
+}
+.vehicle-form-row .ant-form-item, .vehicle-form-row .ant-input-number {
+    margin-inline-end: 0 !important;
+    width: 100%;
+}
+.vehicle-form-row .ant-upload, .vehicle-img-upload-btn{
+    width: 100% !important;
+    /* height: 60px; */
+}

@@ -1,0 +1,70 @@
+/* ========= CSS for Login.js ========= */
+.login-form {
+    width: 300px;
+    border: 1px solid #abd5fa;
+    border-radius: 10px;
+    padding: 15px;
+    background: #fff;
+}
+.login-form-forgot {
+    float: right;
+}
+.ant-col-rtl .login-form-forgot {
+    float: left;
+}
+.login-form-button {
+    width: 100%;
+}
+.register-link{
+    text-align: center;
+}
+
+/* ========= CSS for Sidebar.js ========= */
+
+.sider{
+    height: 100vh;
+    position: sticky;
+    left: 0;
+    top: 0;
+    bottom: 0;
+  }
+  .demo-logo-vertical{
+    height: 32px;
+    margin: 16px;
+    background: rgba(255, 255, 255, .2);
+    border-radius: 6px;
+    color: bisque;
+    text-align: center;
+    padding: 3px;
+    font-size: 18px;
+    font-weight: 700;
+  }
+  .logo{
+    /* color: #4f4f4d; */
+    margin: 8px 15px;
+    font-size: 1.5rem;
+  }
+  .logo-text{
+    text-align: left;
+    font-size: 18px;
+    /* display: inline-block; */
+    padding: 20px 30px;
+    color: #fff;
+    font-weight: 600;
+    color: darksalmon;
+    background: bisque;
+  }
+  .collapse-btn{
+    font-size: 16px;
+    width: 50px;
+    height: 50px;
+    /* position: fixed;
+    bottom: 10px;
+    left: 10px; */
+  }
+  .menu-bar{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-weight: 500;
+  }

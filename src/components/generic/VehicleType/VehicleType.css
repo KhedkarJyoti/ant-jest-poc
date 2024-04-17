@@ -1,0 +1,10 @@
+.vehicle-type-form {
+    /* width: 300px; */
+    border: 1px solid #abd5fa;
+    border-radius: 10px;
+    padding: 15px 15px 60px 15px;
+    background: #fff;
+}
+.form-row{
+    width: 100%;
+}

@@ -1,0 +1,130 @@
+{
+  "users": [],
+  "drivers": [
+    {
+      "id": "2e02",
+      "name": "Maxan D",
+      "gender": "Male",
+      "dob": "1990-04-30T18:30:00.000Z",
+      "age": 34,
+      "mobile": "9898989898",
+      "aadhar": "123456789012",
+      "drivingLicense": "78907890",
+      "address": "Pune, Maharashtra, India"
+    }
+  ],
+  "rideTypes": [
+    {
+      "id": "1be7",
+      "rideType": "Local"
+    },
+    {
+      "id": "f4a1",
+      "rideType": "OutStation"
+    }
+  ],
+  "packages": [
+    {
+      "id": "1af3",
+      "rideType": "Local",
+      "package": "10"
+    },
+    {
+      "id": "0dac",
+      "rideType": "Local",
+      "package": "12"
+    },
+    {
+      "id": "df65",
+      "rideType": "Local",
+      "package": "15"
+    },
+    {
+      "id": "8fa9",
+      "rideType": "Local",
+      "package": "18"
+    },
+    {
+      "id": "d0dd",
+      "rideType": "Local",
+      "package": "20"
+    },
+    {
+      "id": "8f21",
+      "rideType": "OutStation",
+      "package": "15"
+    },
+    {
+      "id": "dc57",
+      "rideType": "OutStation",
+      "package": "20"
+    },
+    {
+      "id": "2ee9",
+      "rideType": "OutStation",
+      "package": "25"
+    }
+  ],
+  "vehicleTypes": [
+    {
+      "id": "5740",
+      "vehicleType": "Truck"
+    },
+    {
+      "id": "11f0",
+      "vehicleType": "Coupe"
+    },
+    {
+      "id": "46f9",
+      "vehicleType": "MiniVan"
+    },
+    {
+      "id": "c03d",
+      "vehicleType": "SUV"
+    },
+    {
+      "id": "eaf3",
+      "vehicleType": "Sedan"
+    },
+    {
+      "id": "c4eb",
+      "vehicleType": "Hatchback"
+    },
+    {
+      "id": "8025",
+      "vehicleType": "MUV"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "8e93",
+      "vehicle": "Tavera",
+      "vehicleType": "SUV",
+      "fuelType": "Petrol",
+      "capacity": 6
+    },
+    {
+      "id": "df40",
+      "vehicle": "Maruti Suzuki Swift",
+      "vehicleType": "Hatchback",
+      "fuelType": "Disel",
+      "capacity": 4
+    },
+    {
+      "id": "9474",
+      "vehicle": "Audi A5",
+      "vehicleType": "Coupe",
+      "fuelType": "Disel",
+      "capacity": 4
+    },
+    {
+      "id": "123b",
+      "vehicle": "BMW",
+      "vehicleType": "Coupe",
+      "brand": "BMW",
+      "model": "4 Series",
+      "fuelType": "Petrol",
+      "capacity": 6
+    }
+  ]
+}

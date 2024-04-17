@@ -1,0 +1,13 @@
+.package-form {
+    width: 100%;
+    border: 1px solid #abd5fa;
+    border-radius: 10px;
+    padding: 15px 15px 60px 15px;
+    background: #fff;
+}
+.package-form-row{
+    width: 100%;
+}
+.package-form-row .ant-form-item {
+    margin-inline-end: 0 !important;
+}

@@ -1,0 +1,13 @@
+.driver-form {
+    width: 100%;
+    border: 1px solid #abd5fa;
+    border-radius: 10px;
+    padding: 15px 15px 60px 15px;
+    background: #fff;
+}
+.driver-form-row, .driver-form-row .ant-picker, .driver-form-row .ant-input-number{
+    width: 100%;
+}
+.driver-form-row .ant-form-item {
+    margin-inline-end: 0 !important;
+}
